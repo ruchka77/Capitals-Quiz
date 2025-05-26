@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+
+.selected {
+    background-color: #4f8aff !important; /* soft yellow */
+    border: 2px solid #fbc02d;
+    box-shadow: 0 0 10px rgba(251, 192, 45, 0.5);
+    transform: scale(1.05);
+}
+
+.question {
+    font-family: 'Poppins', sans-serif;
+    font-size: 22px;
+    font-weight: 600;
+    text-align: center;
+    margin: 40px auto 20px;
+    max-width: 600px;
+    color: #333;
+}
+
+.flag {
+  display: block;
+  margin: 20px auto;       /* Center horizontally */
+  width: 200px;            /* Fixed width */
+  height: 120px;           /* Fixed height */
+  object-fit: cover;       /* Keeps image cropped proportionally to fill the box */
+  border-radius: 8px;      /* Optional: rounded corners */
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* Optional: soft shadow */
+}
+
+.option-btn {
+    display: block;
+    width: 200px;
+    margin: 10px auto;
+    padding: 12px 20px;
+    font-size: 16px;
+    font-weight: 600;
+    border: none;
+    border-radius: 8px;
+    background-color: #070707;
+    color: white;
+    cursor: pointer;
+    transition: background-color 0.2s ease, transform 0.2s ease;
+}
+
+.option-btn:hover:not(.disabled-hover){
+   background-color: #1a1a1a;
+    transform: scale(1.05);
+}
+
+.correct {
+  background-color: #4cbc48;
+}
+
+.wrong {
+  background-color: red;
+}
+
+.thank-you-message {
+  font-size: 24px;
+}
+
+.result{
+    font-family: 'Poppins', sans-serif;
+    font-size: 25px;
+    font-weight: 500;
+    text-align: center;
+    margin-top: 30px;
+    padding: 15px 20px;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 8px;
+    color: #c62828; /* deep red for emphasis */
+}
+
+.submitbutton {
+    display: block;
+    margin: 30px auto;
+    padding: 14px 30px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    color: white;
+    background: linear-gradient(135deg, #5c6bc0, #7986cb); /* muted indigo tones */
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 6px 12px rgba(92, 107, 192, 0.2);
+    cursor: pointer;
+    transition: background 0.3s ease, transform 0.6s ease, box-shadow 0.2s ease;
+}
+
+.submitbutton:hover {
+    background: linear-gradient(135deg, #3f51b5, #5c6bc0); /* slightly deeper on hover */
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(92, 107, 192, 0.3);
+}
+
+.submitbutton:active {
+    transform: translateY(0);
+    box-shadow: 0 4px 8px rgba(92, 107, 192, 0.2);
+}
+
+.score {
+      position: fixed;
+      bottom: 45px;
+      left: 30px;
+      font-family: 'Poppins', sans-serif;
+      font-size: 24px;
+      font-weight: 600;
+      color: #FF5722;
+      display: inline-flex;
+      align-items: center;
+      background-color: #FFF3E0;
+      padding: 13px 10px;
+      border-radius: 12px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    }
+
