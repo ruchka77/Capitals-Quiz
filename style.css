@@ -39,8 +39,8 @@ html, body {
 .flag {
   display: block;
   margin: 20px auto;       /* Center horizontally */
-  width: 200px;            /* Fixed width */
-  height: 120px;           /* Fixed height */
+  max-width: 200px;            /* Fixed width */
+  max-height: 120px;           /* Fixed height */
   object-fit: cover;       /* Keeps image cropped proportionally to fill the box */
   border-radius: 8px;      /* Optional: rounded corners */
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* Optional: soft shadow */
