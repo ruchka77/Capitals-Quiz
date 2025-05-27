@@ -28,7 +28,7 @@ html, body {
 
 .question {
     font-family: 'Poppins', sans-serif;
-    font-size: clamp(20px, 2.2vw, 28px);
+    font-size: clamp(16px, 2.2vw, 28px);
     font-weight: 600;
     text-align: center;
     margin: 2rem auto 1.5rem;
