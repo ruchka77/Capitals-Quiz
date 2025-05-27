@@ -9,7 +9,7 @@ const getCapitalQuiz = async () => {
     const data = await res.json();
 
     const allCountries = data
-      .filter(c => c.capital && c.capital.length > 0 && c.name?.common && c.name?.common !== "Palestine" && c.capital !== "Ramallah")
+      .filter(c => c.capital && c.capital.length > 0 && c.name?.common && c.name?.common !== "Palestine" && c.capital !== "Ramallah") 
       .map(c => ({
         country: c.name.common,
         capital: c.capital[0],

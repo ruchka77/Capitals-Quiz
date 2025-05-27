@@ -4,9 +4,9 @@
     "answer": "Asmara",
     "options": [
       "Asmara",
-      "Canberra",
-      "Port Louis",
-      "Bissau"
+      "Papeetē",
+      "Diego Garcia",
+      "Djibouti"
     ],
     "flag": "https://flagcdn.com/w320/er.png"
   },
@@ -14,9 +14,9 @@
     "question": "What is the capital of Cameroon?",
     "answer": "Yaoundé",
     "options": [
-      "Kingston",
-      "Dublin",
-      "Maseru",
+      "Stanley",
+      "Rome",
+      "Asmara",
       "Yaoundé"
     ],
     "flag": "https://flagcdn.com/w320/cm.png"
@@ -25,10 +25,10 @@
     "question": "What is the capital of Montenegro?",
     "answer": "Podgorica",
     "options": [
-      "Bridgetown",
-      "Juba",
+      "Georgetown",
       "Podgorica",
-      "Singapore"
+      "Tunis",
+      "Kuwait City"
     ],
     "flag": "https://flagcdn.com/w320/me.png"
   },
@@ -36,10 +36,10 @@
     "question": "What is the capital of Fiji?",
     "answer": "Suva",
     "options": [
-      "Kabul",
-      "Kuwait City",
-      "Ankara",
-      "Suva"
+      "Georgetown",
+      "Suva",
+      "Quito",
+      "Podgorica"
     ],
     "flag": "https://flagcdn.com/w320/fj.png"
   },
@@ -47,10 +47,10 @@
     "question": "What is the capital of Tunisia?",
     "answer": "Tunis",
     "options": [
-      "Skopje",
       "Tunis",
-      "Vilnius",
-      "Jerusalem"
+      "Libreville",
+      "San José",
+      "West Island"
     ],
     "flag": "https://flagcdn.com/w320/tn.png"
   },
@@ -59,9 +59,9 @@
     "answer": "Dakar",
     "options": [
       "Dakar",
-      "Basseterre",
-      "Tbilisi",
-      "Nuku'alofa"
+      "Manila",
+      "Gitega",
+      "Luxembourg"
     ],
     "flag": "https://flagcdn.com/w320/sn.png"
   },
@@ -70,9 +70,9 @@
     "answer": "King Edward Point",
     "options": [
       "King Edward Point",
-      "Nicosia",
-      "Saipan",
-      "San Salvador"
+      "Vatican City",
+      "Bridgetown",
+      "Amsterdam"
     ],
     "flag": "https://flagcdn.com/w320/gs.png"
   },
@@ -80,10 +80,10 @@
     "question": "What is the capital of Brazil?",
     "answer": "Brasília",
     "options": [
-      "Mexico City",
       "Brasília",
-      "Kuwait City",
-      "Port Vila"
+      "Saipan",
+      "Tbilisi",
+      "Belgrade"
     ],
     "flag": "https://flagcdn.com/w320/br.png"
   },
@@ -91,10 +91,10 @@
     "question": "What is the capital of Liechtenstein?",
     "answer": "Vaduz",
     "options": [
-      "Algiers",
-      "Prague",
-      "Malabo",
-      "Vaduz"
+      "King Edward Point",
+      "Vaduz",
+      "Ankara",
+      "Gustavia"
     ],
     "flag": "https://flagcdn.com/w320/li.png"
   },
@@ -103,9 +103,9 @@
     "answer": "Mexico City",
     "options": [
       "Mexico City",
-      "Brussels",
-      "Managua",
-      "Suva"
+      "Nassau",
+      "Bamako",
+      "Nuku'alofa"
     ],
     "flag": "https://flagcdn.com/w320/mx.png"
   },
@@ -114,9 +114,9 @@
     "answer": "Nuuk",
     "options": [
       "Nuuk",
-      "Mata-Utu",
-      "Fort-de-France",
-      "South Tarawa"
+      "Santo Domingo",
+      "Plymouth",
+      "Port-au-Prince"
     ],
     "flag": "https://flagcdn.com/w320/gl.png"
   },
@@ -124,10 +124,10 @@
     "question": "What is the capital of United States Minor Outlying Islands?",
     "answer": "Washington DC",
     "options": [
-      "San José",
+      "Kampala",
+      "Panama City",
       "Washington DC",
-      "Bangui",
-      "Nuku'alofa"
+      "Prague"
     ],
     "flag": "https://flagcdn.com/w320/um.png"
   },
@@ -135,10 +135,10 @@
     "question": "What is the capital of Equatorial Guinea?",
     "answer": "Malabo",
     "options": [
-      "Malabo",
-      "Naypyidaw",
-      "Pretoria",
-      "Pyongyang"
+      "Saint-Pierre",
+      "Brussels",
+      "Victoria",
+      "Malabo"
     ],
     "flag": "https://flagcdn.com/w320/gq.png"
   },
@@ -146,10 +146,10 @@
     "question": "What is the capital of Guadeloupe?",
     "answer": "Basse-Terre",
     "options": [
-      "N'Djamena",
+      "Porto-Novo",
+      "St. Peter Port",
       "Basse-Terre",
-      "Suva",
-      "Tashkent"
+      "Malé"
     ],
     "flag": "https://flagcdn.com/w320/gp.png"
   },
@@ -157,10 +157,10 @@
     "question": "What is the capital of Saint Helena, Ascension and Tristan da Cunha?",
     "answer": "Jamestown",
     "options": [
-      "Dhaka",
-      "Papeetē",
-      "Pago Pago",
-      "Jamestown"
+      "Philipsburg",
+      "Tórshavn",
+      "Jamestown",
+      "Douglas"
     ],
     "flag": "https://flagcdn.com/w320/sh.png"
   },
@@ -169,9 +169,9 @@
     "answer": "Ankara",
     "options": [
       "Ankara",
-      "Gustavia",
-      "Marigot",
-      "Majuro"
+      "Washington DC",
+      "Hagåtña",
+      "Vienna"
     ],
     "flag": "https://flagcdn.com/w320/tr.png"
   },
@@ -179,10 +179,10 @@
     "question": "What is the capital of Chad?",
     "answer": "N'Djamena",
     "options": [
-      "Addis Ababa",
-      "Saint-Denis",
       "N'Djamena",
-      "Palikir"
+      "Avarua",
+      "Tegucigalpa",
+      "Copenhagen"
     ],
     "flag": "https://flagcdn.com/w320/td.png"
   },
@@ -190,10 +190,10 @@
     "question": "What is the capital of Honduras?",
     "answer": "Tegucigalpa",
     "options": [
+      "Georgetown",
       "Tegucigalpa",
-      "Ashgabat",
-      "Tunis",
-      "Buenos Aires"
+      "Majuro",
+      "Thimphu"
     ],
     "flag": "https://flagcdn.com/w320/hn.png"
   },
@@ -201,10 +201,10 @@
     "question": "What is the capital of Austria?",
     "answer": "Vienna",
     "options": [
-      "Roseau",
+      "Dili",
       "Vienna",
       "King Edward Point",
-      "Malabo"
+      "Asmara"
     ],
     "flag": "https://flagcdn.com/w320/at.png"
   },
@@ -213,9 +213,9 @@
     "answer": "Bucharest",
     "options": [
       "Bucharest",
-      "Bangkok",
-      "Buenos Aires",
-      "Brasília"
+      "Port-aux-Français",
+      "Astana",
+      "Manila"
     ],
     "flag": "https://flagcdn.com/w320/ro.png"
   },
@@ -223,10 +223,10 @@
     "question": "What is the capital of Gabon?",
     "answer": "Libreville",
     "options": [
-      "Moroni",
-      "Niamey",
-      "Hanoi",
-      "Libreville"
+      "Gaborone",
+      "Bratislava",
+      "Libreville",
+      "Budapest"
     ],
     "flag": "https://flagcdn.com/w320/ga.png"
   },
@@ -234,9 +234,9 @@
     "question": "What is the capital of Namibia?",
     "answer": "Windhoek",
     "options": [
-      "Tashkent",
-      "Tehran",
-      "Tallinn",
+      "Yerevan",
+      "Jamestown",
+      "Vienna",
       "Windhoek"
     ],
     "flag": "https://flagcdn.com/w320/na.png"
@@ -245,10 +245,10 @@
     "question": "What is the capital of Rwanda?",
     "answer": "Kigali",
     "options": [
-      "Dakar",
-      "Valletta",
-      "Banjul",
-      "Kigali"
+      "Dushanbe",
+      "Kigali",
+      "Mexico City",
+      "Longyearbyen"
     ],
     "flag": "https://flagcdn.com/w320/rw.png"
   },
@@ -256,10 +256,10 @@
     "question": "What is the capital of Saint Vincent and the Grenadines?",
     "answer": "Kingstown",
     "options": [
-      "Dhaka",
       "Kingstown",
-      "Yaren",
-      "Ngerulmud"
+      "Douglas",
+      "Majuro",
+      "Athens"
     ],
     "flag": "https://flagcdn.com/w320/vc.png"
   },
@@ -267,10 +267,10 @@
     "question": "What is the capital of Bulgaria?",
     "answer": "Sofia",
     "options": [
-      "Manama",
-      "Washington DC",
+      "Kingston",
       "Sofia",
-      "Ankara"
+      "Dodoma",
+      "Sarajevo"
     ],
     "flag": "https://flagcdn.com/w320/bg.png"
   },
@@ -278,10 +278,10 @@
     "question": "What is the capital of Colombia?",
     "answer": "Bogotá",
     "options": [
-      "Hamilton",
-      "Ankara",
-      "Belmopan",
-      "Bogotá"
+      "Naypyidaw",
+      "Bogotá",
+      "Ljubljana",
+      "Ulan Bator"
     ],
     "flag": "https://flagcdn.com/w320/co.png"
   },
@@ -289,10 +289,10 @@
     "question": "What is the capital of Suriname?",
     "answer": "Paramaribo",
     "options": [
-      "Palikir",
-      "Roseau",
-      "Bamako",
-      "Paramaribo"
+      "Paramaribo",
+      "Diego Garcia",
+      "Guatemala City",
+      "Montevideo"
     ],
     "flag": "https://flagcdn.com/w320/sr.png"
   },
@@ -300,10 +300,10 @@
     "question": "What is the capital of Zimbabwe?",
     "answer": "Harare",
     "options": [
+      "Podgorica",
+      "Belgrade",
       "Harare",
-      "Freetown",
-      "Suva",
-      "Minsk"
+      "Saipan"
     ],
     "flag": "https://flagcdn.com/w320/zw.png"
   },
@@ -311,10 +311,10 @@
     "question": "What is the capital of Venezuela?",
     "answer": "Caracas",
     "options": [
-      "Bissau",
-      "Dili",
-      "Reykjavik",
-      "Caracas"
+      "Ottawa",
+      "Asunción",
+      "Caracas",
+      "Valletta"
     ],
     "flag": "https://flagcdn.com/w320/ve.png"
   },
@@ -322,10 +322,10 @@
     "question": "What is the capital of Eswatini?",
     "answer": "Mbabane",
     "options": [
-      "Gustavia",
       "Mbabane",
-      "Conakry",
-      "Vientiane"
+      "New Delhi",
+      "Addis Ababa",
+      "El Aaiún"
     ],
     "flag": "https://flagcdn.com/w320/sz.png"
   },
@@ -333,10 +333,10 @@
     "question": "What is the capital of Philippines?",
     "answer": "Manila",
     "options": [
-      "Kingstown",
-      "Longyearbyen",
+      "Damascus",
       "Manila",
-      "Stockholm"
+      "Dakar",
+      "Lilongwe"
     ],
     "flag": "https://flagcdn.com/w320/ph.png"
   },
@@ -344,10 +344,10 @@
     "question": "What is the capital of Turkmenistan?",
     "answer": "Ashgabat",
     "options": [
-      "Bishkek",
+      "Basse-Terre",
+      "Phnom Penh",
       "Ashgabat",
-      "Lilongwe",
-      "Alofi"
+      "Fort-de-France"
     ],
     "flag": "https://flagcdn.com/w320/tm.png"
   },
@@ -355,10 +355,10 @@
     "question": "What is the capital of Algeria?",
     "answer": "Algiers",
     "options": [
-      "New Delhi",
-      "Bangui",
-      "Algiers",
-      "Saint-Pierre"
+      "Doha",
+      "Stockholm",
+      "Tórshavn",
+      "Algiers"
     ],
     "flag": "https://flagcdn.com/w320/dz.png"
   },
@@ -366,10 +366,10 @@
     "question": "What is the capital of Niger?",
     "answer": "Niamey",
     "options": [
-      "Niamey",
-      "Freetown",
-      "Santo Domingo",
-      "Asmara"
+      "Saint John's",
+      "Wellington",
+      "Port Louis",
+      "Niamey"
     ],
     "flag": "https://flagcdn.com/w320/ne.png"
   },
@@ -377,10 +377,10 @@
     "question": "What is the capital of Jamaica?",
     "answer": "Kingston",
     "options": [
+      "Suva",
+      "Nouakchott",
       "Kingston",
-      "Wellington",
-      "Quito",
-      "Bern"
+      "City of San Marino"
     ],
     "flag": "https://flagcdn.com/w320/jm.png"
   },
@@ -388,10 +388,10 @@
     "question": "What is the capital of Armenia?",
     "answer": "Yerevan",
     "options": [
-      "Tunis",
-      "Kingston",
-      "Santiago",
-      "Yerevan"
+      "Oslo",
+      "Abu Dhabi",
+      "Yerevan",
+      "Roseau"
     ],
     "flag": "https://flagcdn.com/w320/am.png"
   },
@@ -399,10 +399,10 @@
     "question": "What is the capital of Caribbean Netherlands?",
     "answer": "Kralendijk",
     "options": [
-      "Dushanbe",
-      "Bangkok",
+      "Prague",
       "Kralendijk",
-      "Kabul"
+      "Kyiv",
+      "Buenos Aires"
     ],
     "flag": "https://flagcdn.com/w320/bq.png"
   },
@@ -410,10 +410,10 @@
     "question": "What is the capital of Solomon Islands?",
     "answer": "Honiara",
     "options": [
-      "Asmara",
-      "Lisbon",
-      "Andorra la Vella",
-      "Honiara"
+      "Honiara",
+      "Djibouti",
+      "Bamako",
+      "Nicosia"
     ],
     "flag": "https://flagcdn.com/w320/sb.png"
   },
@@ -421,10 +421,10 @@
     "question": "What is the capital of Cuba?",
     "answer": "Havana",
     "options": [
-      "Havana",
       "Kyiv",
-      "Ottawa",
-      "Saint John's"
+      "Havana",
+      "Kuala Lumpur",
+      "Riga"
     ],
     "flag": "https://flagcdn.com/w320/cu.png"
   },
@@ -432,9 +432,9 @@
     "question": "What is the capital of French Southern and Antarctic Lands?",
     "answer": "Port-aux-Français",
     "options": [
-      "Libreville",
-      "Washington DC",
-      "Rome",
+      "Moscow",
+      "Kampala",
+      "Charlotte Amalie",
       "Port-aux-Français"
     ],
     "flag": "https://flagcdn.com/w320/tf.png"
@@ -443,10 +443,10 @@
     "question": "What is the capital of Åland Islands?",
     "answer": "Mariehamn",
     "options": [
-      "Singapore",
-      "Djibouti",
-      "Taipei",
-      "Mariehamn"
+      "Antananarivo",
+      "Mariehamn",
+      "Beirut",
+      "Willemstad"
     ],
     "flag": "https://flagcdn.com/w320/ax.png"
   },
@@ -455,9 +455,9 @@
     "answer": "Charlotte Amalie",
     "options": [
       "Charlotte Amalie",
-      "Bishkek",
-      "Dakar",
-      "Prague"
+      "Luxembourg",
+      "Skopje",
+      "Beijing"
     ],
     "flag": "https://flagcdn.com/w320/vi.png"
   },
@@ -465,10 +465,10 @@
     "question": "What is the capital of Liberia?",
     "answer": "Monrovia",
     "options": [
-      "Zagreb",
       "Monrovia",
-      "Libreville",
-      "Sofia"
+      "Bucharest",
+      "Porto-Novo",
+      "South Tarawa"
     ],
     "flag": "https://flagcdn.com/w320/lr.png"
   },
@@ -476,10 +476,10 @@
     "question": "What is the capital of Sudan?",
     "answer": "Khartoum",
     "options": [
-      "Harare",
-      "London",
-      "Khartoum",
-      "Managua"
+      "Vientiane",
+      "Tirana",
+      "Bandar Seri Begawan",
+      "Khartoum"
     ],
     "flag": "https://flagcdn.com/w320/sd.png"
   },
@@ -487,10 +487,10 @@
     "question": "What is the capital of British Virgin Islands?",
     "answer": "Road Town",
     "options": [
-      "Monrovia",
-      "Kingston",
-      "Lima",
-      "Road Town"
+      "Road Town",
+      "Port-au-Prince",
+      "Asmara",
+      "Amsterdam"
     ],
     "flag": "https://flagcdn.com/w320/vg.png"
   },
@@ -498,10 +498,10 @@
     "question": "What is the capital of Tanzania?",
     "answer": "Dodoma",
     "options": [
+      "Saint John's",
+      "Montevideo",
       "Dodoma",
-      "Avarua",
-      "Helsinki",
-      "Philipsburg"
+      "Brasília"
     ],
     "flag": "https://flagcdn.com/w320/tz.png"
   },
@@ -509,10 +509,10 @@
     "question": "What is the capital of Croatia?",
     "answer": "Zagreb",
     "options": [
+      "Stanley",
+      "Port-au-Prince",
       "Zagreb",
-      "The Valley",
-      "Praia",
-      "Bamako"
+      "Bratislava"
     ],
     "flag": "https://flagcdn.com/w320/hr.png"
   },
@@ -520,10 +520,10 @@
     "question": "What is the capital of Andorra?",
     "answer": "Andorra la Vella",
     "options": [
-      "Andorra la Vella",
-      "Kyiv",
-      "Yaren",
-      "Stockholm"
+      "Santiago",
+      "Lomé",
+      "Port Vila",
+      "Andorra la Vella"
     ],
     "flag": "https://flagcdn.com/w320/ad.png"
   },
@@ -531,10 +531,10 @@
     "question": "What is the capital of Belize?",
     "answer": "Belmopan",
     "options": [
-      "Port Vila",
+      "Ljubljana",
       "Belmopan",
-      "Brasília",
-      "Lilongwe"
+      "Berlin",
+      "Vatican City"
     ],
     "flag": "https://flagcdn.com/w320/bz.png"
   },
@@ -542,10 +542,10 @@
     "question": "What is the capital of Barbados?",
     "answer": "Bridgetown",
     "options": [
-      "Bandar Seri Begawan",
-      "Diego Garcia",
+      "Moscow",
+      "Longyearbyen",
       "Bridgetown",
-      "Lomé"
+      "Cockburn Town"
     ],
     "flag": "https://flagcdn.com/w320/bb.png"
   },
@@ -553,9 +553,9 @@
     "question": "What is the capital of Slovakia?",
     "answer": "Bratislava",
     "options": [
-      "Singapore",
-      "Muscat",
-      "Pyongyang",
+      "Banjul",
+      "Port Moresby",
+      "Tbilisi",
       "Bratislava"
     ],
     "flag": "https://flagcdn.com/w320/sk.png"
@@ -564,10 +564,10 @@
     "question": "What is the capital of Vatican City?",
     "answer": "Vatican City",
     "options": [
-      "Naypyidaw",
       "Vatican City",
-      "Mbabane",
-      "Washington DC"
+      "Port Moresby",
+      "Jerusalem",
+      "Baghdad"
     ],
     "flag": "https://flagcdn.com/w320/va.png"
   },
@@ -575,10 +575,10 @@
     "question": "What is the capital of Lebanon?",
     "answer": "Beirut",
     "options": [
-      "Berlin",
+      "The Valley",
+      "Dakar",
       "Beirut",
-      "Paris",
-      "Manila"
+      "Suva"
     ],
     "flag": "https://flagcdn.com/w320/lb.png"
   },
@@ -586,10 +586,10 @@
     "question": "What is the capital of Moldova?",
     "answer": "Chișinău",
     "options": [
+      "Kyiv",
       "Chișinău",
-      "Yaoundé",
-      "Singapore",
-      "Ljubljana"
+      "Bissau",
+      "Dhaka"
     ],
     "flag": "https://flagcdn.com/w320/md.png"
   },
@@ -597,10 +597,10 @@
     "question": "What is the capital of Finland?",
     "answer": "Helsinki",
     "options": [
-      "Gustavia",
-      "Apia",
+      "Porto-Novo",
       "Helsinki",
-      "Nuuk"
+      "Juba",
+      "Quito"
     ],
     "flag": "https://flagcdn.com/w320/fi.png"
   },
@@ -608,10 +608,10 @@
     "question": "What is the capital of Taiwan?",
     "answer": "Taipei",
     "options": [
+      "Tokyo",
       "Taipei",
-      "Doha",
-      "Rome",
-      "Majuro"
+      "Jerusalem",
+      "Asmara"
     ],
     "flag": "https://flagcdn.com/w320/tw.png"
   },
@@ -619,10 +619,10 @@
     "question": "What is the capital of Micronesia?",
     "answer": "Palikir",
     "options": [
-      "Suva",
-      "Nouméa",
-      "Palikir",
-      "Yaoundé"
+      "Skopje",
+      "Conakry",
+      "Freetown",
+      "Palikir"
     ],
     "flag": "https://flagcdn.com/w320/fm.png"
   },
@@ -630,10 +630,10 @@
     "question": "What is the capital of Vietnam?",
     "answer": "Hanoi",
     "options": [
+      "Bandar Seri Begawan",
+      "Palikir",
       "Hanoi",
-      "Kigali",
-      "Panama City",
-      "Manama"
+      "Seoul"
     ],
     "flag": "https://flagcdn.com/w320/vn.png"
   },
@@ -641,9 +641,9 @@
     "question": "What is the capital of French Polynesia?",
     "answer": "Papeetē",
     "options": [
-      "Nouakchott",
-      "Nairobi",
-      "Gustavia",
+      "Tegucigalpa",
+      "Berlin",
+      "Longyearbyen",
       "Papeetē"
     ],
     "flag": "https://flagcdn.com/w320/pf.png"
@@ -652,10 +652,10 @@
     "question": "What is the capital of Tokelau?",
     "answer": "Fakaofo",
     "options": [
-      "Buenos Aires",
-      "Tokyo",
+      "Mbabane",
+      "Dushanbe",
       "Fakaofo",
-      "Beijing"
+      "Naypyidaw"
     ],
     "flag": "https://flagcdn.com/w320/tk.png"
   },
@@ -664,9 +664,9 @@
     "answer": "Berlin",
     "options": [
       "Berlin",
-      "Funafuti",
-      "Jerusalem",
-      "Nassau"
+      "Lima",
+      "Bern",
+      "El Aaiún"
     ],
     "flag": "https://flagcdn.com/w320/de.png"
   },
@@ -674,10 +674,10 @@
     "question": "What is the capital of Uganda?",
     "answer": "Kampala",
     "options": [
-      "Philipsburg",
-      "Kampala",
-      "Ashgabat",
-      "Asmara"
+      "Fort-de-France",
+      "Antananarivo",
+      "Gitega",
+      "Kampala"
     ],
     "flag": "https://flagcdn.com/w320/ug.png"
   },
@@ -686,9 +686,9 @@
     "answer": "Philipsburg",
     "options": [
       "Philipsburg",
-      "Moscow",
-      "Sana'a",
-      "Ottawa"
+      "Paramaribo",
+      "Palikir",
+      "Accra"
     ],
     "flag": "https://flagcdn.com/w320/sx.png"
   },
@@ -696,10 +696,10 @@
     "question": "What is the capital of Kazakhstan?",
     "answer": "Astana",
     "options": [
-      "Sucre",
-      "Podgorica",
-      "El Aaiún",
-      "Astana"
+      "Astana",
+      "Bangui",
+      "São Tomé",
+      "Kampala"
     ],
     "flag": "https://flagcdn.com/w320/kz.png"
   },
@@ -707,10 +707,10 @@
     "question": "What is the capital of Northern Mariana Islands?",
     "answer": "Saipan",
     "options": [
-      "Asmara",
-      "Tunis",
-      "Prague",
-      "Saipan"
+      "Saipan",
+      "Paramaribo",
+      "Kathmandu",
+      "Fort-de-France"
     ],
     "flag": "https://flagcdn.com/w320/mp.png"
   },
@@ -719,9 +719,9 @@
     "answer": "Roseau",
     "options": [
       "Roseau",
-      "Skopje",
-      "City of San Marino",
-      "Nuuk"
+      "St. George's",
+      "Buenos Aires",
+      "Mbabane"
     ],
     "flag": "https://flagcdn.com/w320/dm.png"
   },
@@ -729,10 +729,10 @@
     "question": "What is the capital of South Sudan?",
     "answer": "Juba",
     "options": [
-      "Mexico City",
+      "Bissau",
       "Juba",
-      "Funafuti",
-      "Skopje"
+      "Longyearbyen",
+      "Pago Pago"
     ],
     "flag": "https://flagcdn.com/w320/ss.png"
   },
@@ -740,10 +740,10 @@
     "question": "What is the capital of American Samoa?",
     "answer": "Pago Pago",
     "options": [
-      "Pago Pago",
-      "Lima",
-      "Zagreb",
-      "Prague"
+      "Monaco",
+      "Phnom Penh",
+      "Tallinn",
+      "Pago Pago"
     ],
     "flag": "https://flagcdn.com/w320/as.png"
   },
@@ -751,10 +751,10 @@
     "question": "What is the capital of Pitcairn Islands?",
     "answer": "Adamstown",
     "options": [
+      "Nassau",
+      "Hanoi",
       "Adamstown",
-      "Fort-de-France",
-      "Mbabane",
-      "London"
+      "Maseru"
     ],
     "flag": "https://flagcdn.com/w320/pn.png"
   },
@@ -762,10 +762,10 @@
     "question": "What is the capital of Tajikistan?",
     "answer": "Dushanbe",
     "options": [
+      "Doha",
+      "Fort-de-France",
       "Dushanbe",
-      "Yaren",
-      "Adamstown",
-      "Gitega"
+      "Abu Dhabi"
     ],
     "flag": "https://flagcdn.com/w320/tj.png"
   },
@@ -773,10 +773,10 @@
     "question": "What is the capital of Wallis and Futuna?",
     "answer": "Mata-Utu",
     "options": [
-      "Algiers",
-      "New Delhi",
-      "Mata-Utu",
-      "South Tarawa"
+      "Philipsburg",
+      "Ouagadougou",
+      "Ulan Bator",
+      "Mata-Utu"
     ],
     "flag": "https://flagcdn.com/w320/wf.png"
   },
@@ -784,10 +784,10 @@
     "question": "What is the capital of Slovenia?",
     "answer": "Ljubljana",
     "options": [
-      "Willemstad",
-      "Marigot",
-      "Ljubljana",
-      "Hamilton"
+      "Kathmandu",
+      "Muscat",
+      "Baku",
+      "Ljubljana"
     ],
     "flag": "https://flagcdn.com/w320/si.png"
   },
@@ -795,10 +795,10 @@
     "question": "What is the capital of Cape Verde?",
     "answer": "Praia",
     "options": [
-      "Avarua",
-      "San Salvador",
       "Praia",
-      "Jerusalem"
+      "London",
+      "Oslo",
+      "Kampala"
     ],
     "flag": "https://flagcdn.com/w320/cv.png"
   },
@@ -806,10 +806,10 @@
     "question": "What is the capital of Maldives?",
     "answer": "Malé",
     "options": [
-      "Malé",
-      "London",
-      "Doha",
-      "Gaborone"
+      "Vaduz",
+      "Ankara",
+      "Cayenne",
+      "Malé"
     ],
     "flag": "https://flagcdn.com/w320/mv.png"
   },
@@ -817,10 +817,10 @@
     "question": "What is the capital of Yemen?",
     "answer": "Sana'a",
     "options": [
-      "Kingston",
       "Sana'a",
-      "Bangui",
-      "Mata-Utu"
+      "Majuro",
+      "Gibraltar",
+      "Chișinău"
     ],
     "flag": "https://flagcdn.com/w320/ye.png"
   },
@@ -828,10 +828,10 @@
     "question": "What is the capital of North Korea?",
     "answer": "Pyongyang",
     "options": [
-      "Muscat",
       "Pyongyang",
-      "Suva",
-      "Berlin"
+      "Pristina",
+      "Washington DC",
+      "Maputo"
     ],
     "flag": "https://flagcdn.com/w320/kp.png"
   },
@@ -839,10 +839,10 @@
     "question": "What is the capital of Georgia?",
     "answer": "Tbilisi",
     "options": [
-      "Amman",
-      "Seoul",
-      "Maputo",
-      "Tbilisi"
+      "Bangui",
+      "Bucharest",
+      "Tbilisi",
+      "Abuja"
     ],
     "flag": "https://flagcdn.com/w320/ge.png"
   },
@@ -850,9 +850,9 @@
     "question": "What is the capital of Belgium?",
     "answer": "Brussels",
     "options": [
-      "Bogotá",
-      "Cairo",
-      "Praia",
+      "Bratislava",
+      "Gustavia",
+      "Saint-Pierre",
       "Brussels"
     ],
     "flag": "https://flagcdn.com/w320/be.png"
@@ -861,10 +861,10 @@
     "question": "What is the capital of Uzbekistan?",
     "answer": "Tashkent",
     "options": [
-      "Monaco",
+      "Niamey",
       "Tashkent",
-      "Muscat",
-      "Honiara"
+      "Asunción",
+      "Nuuk"
     ],
     "flag": "https://flagcdn.com/w320/uz.png"
   },
@@ -872,10 +872,10 @@
     "question": "What is the capital of Dominican Republic?",
     "answer": "Santo Domingo",
     "options": [
-      "Jakarta",
-      "Charlotte Amalie",
-      "Sri Jayawardenepura Kotte",
-      "Santo Domingo"
+      "Santo Domingo",
+      "Mbabane",
+      "Dili",
+      "Helsinki"
     ],
     "flag": "https://flagcdn.com/w320/do.png"
   },
@@ -884,9 +884,9 @@
     "answer": "Lisbon",
     "options": [
       "Lisbon",
-      "Bucharest",
-      "Paramaribo",
-      "Vaduz"
+      "Oslo",
+      "Gustavia",
+      "Vientiane"
     ],
     "flag": "https://flagcdn.com/w320/pt.png"
   },
@@ -894,10 +894,10 @@
     "question": "What is the capital of Faroe Islands?",
     "answer": "Tórshavn",
     "options": [
+      "El Aaiún",
+      "Monrovia",
       "Tórshavn",
-      "Asmara",
-      "Ouagadougou",
-      "Kuwait City"
+      "Nuuk"
     ],
     "flag": "https://flagcdn.com/w320/fo.png"
   },
@@ -905,10 +905,10 @@
     "question": "What is the capital of Western Sahara?",
     "answer": "El Aaiún",
     "options": [
-      "Bangui",
-      "Kampala",
-      "Saint-Denis",
-      "El Aaiún"
+      "Dushanbe",
+      "El Aaiún",
+      "Willemstad",
+      "Praia"
     ],
     "flag": "https://flagcdn.com/w320/eh.png"
   },
@@ -916,10 +916,10 @@
     "question": "What is the capital of Martinique?",
     "answer": "Fort-de-France",
     "options": [
-      "Gustavia",
-      "Minsk",
-      "Yaoundé",
-      "Fort-de-France"
+      "Fort-de-France",
+      "Bridgetown",
+      "Georgetown",
+      "Yaren"
     ],
     "flag": "https://flagcdn.com/w320/mq.png"
   },
@@ -927,10 +927,10 @@
     "question": "What is the capital of Saint Lucia?",
     "answer": "Castries",
     "options": [
-      "Castries",
-      "Nuku'alofa",
-      "Maseru",
-      "Cockburn Town"
+      "Warsaw",
+      "Port Moresby",
+      "Manila",
+      "Castries"
     ],
     "flag": "https://flagcdn.com/w320/lc.png"
   },
@@ -938,10 +938,10 @@
     "question": "What is the capital of Mozambique?",
     "answer": "Maputo",
     "options": [
-      "Saint John's",
-      "Libreville",
-      "Saipan",
-      "Maputo"
+      "Kingston",
+      "Maputo",
+      "Gitega",
+      "Baku"
     ],
     "flag": "https://flagcdn.com/w320/mz.png"
   },
@@ -949,10 +949,10 @@
     "question": "What is the capital of Thailand?",
     "answer": "Bangkok",
     "options": [
-      "Djibouti",
-      "Belmopan",
       "Bangkok",
-      "Saint-Pierre"
+      "City of San Marino",
+      "Luxembourg",
+      "Stockholm"
     ],
     "flag": "https://flagcdn.com/w320/th.png"
   },
@@ -960,10 +960,10 @@
     "question": "What is the capital of Israel?",
     "answer": "Jerusalem",
     "options": [
-      "Jamestown",
-      "Basseterre",
-      "Athens",
-      "Jerusalem"
+      "Saipan",
+      "Willemstad",
+      "Jerusalem",
+      "Beirut"
     ],
     "flag": "https://flagcdn.com/w320/il.png"
   },
@@ -971,10 +971,10 @@
     "question": "What is the capital of Falkland Islands?",
     "answer": "Stanley",
     "options": [
-      "Fakaofo",
-      "Vaduz",
-      "Stanley",
-      "N'Djamena"
+      "Kampala",
+      "Port-aux-Français",
+      "Tokyo",
+      "Stanley"
     ],
     "flag": "https://flagcdn.com/w320/fk.png"
   },
@@ -982,10 +982,10 @@
     "question": "What is the capital of Benin?",
     "answer": "Porto-Novo",
     "options": [
-      "Niamey",
-      "Cayenne",
       "Porto-Novo",
-      "Nuuk"
+      "Vaduz",
+      "Sofia",
+      "Charlotte Amalie"
     ],
     "flag": "https://flagcdn.com/w320/bj.png"
   },
@@ -993,10 +993,10 @@
     "question": "What is the capital of Indonesia?",
     "answer": "Jakarta",
     "options": [
-      "Jakarta",
-      "Palikir",
-      "Tbilisi",
-      "Ankara"
+      "Maseru",
+      "Gustavia",
+      "Nairobi",
+      "Jakarta"
     ],
     "flag": "https://flagcdn.com/w320/id.png"
   },
@@ -1004,10 +1004,10 @@
     "question": "What is the capital of Papua New Guinea?",
     "answer": "Port Moresby",
     "options": [
-      "Manila",
-      "Santo Domingo",
+      "Quito",
+      "Wellington",
       "Port Moresby",
-      "Washington DC"
+      "Brasília"
     ],
     "flag": "https://flagcdn.com/w320/pg.png"
   },
@@ -1016,9 +1016,9 @@
     "answer": "Manama",
     "options": [
       "Manama",
-      "Majuro",
-      "Praia",
-      "Kingston"
+      "Cayenne",
+      "Freetown",
+      "Nicosia"
     ],
     "flag": "https://flagcdn.com/w320/bh.png"
   },
@@ -1026,10 +1026,10 @@
     "question": "What is the capital of Greece?",
     "answer": "Athens",
     "options": [
-      "Seoul",
-      "Windhoek",
+      "Astana",
       "Athens",
-      "Minsk"
+      "Malé",
+      "Abuja"
     ],
     "flag": "https://flagcdn.com/w320/gr.png"
   },
@@ -1037,10 +1037,10 @@
     "question": "What is the capital of Syria?",
     "answer": "Damascus",
     "options": [
-      "Athens",
-      "City of Victoria",
-      "Hagåtña",
-      "Damascus"
+      "Sana'a",
+      "Basse-Terre",
+      "Damascus",
+      "Harare"
     ],
     "flag": "https://flagcdn.com/w320/sy.png"
   },
@@ -1048,10 +1048,10 @@
     "question": "What is the capital of Central African Republic?",
     "answer": "Bangui",
     "options": [
-      "Nicosia",
-      "Philipsburg",
-      "Bangui",
-      "Amsterdam"
+      "Charlotte Amalie",
+      "Manila",
+      "Jamestown",
+      "Bangui"
     ],
     "flag": "https://flagcdn.com/w320/cf.png"
   },
@@ -1060,9 +1060,9 @@
     "answer": "Hagåtña",
     "options": [
       "Hagåtña",
-      "Jerusalem",
-      "Bangkok",
-      "Ngerulmud"
+      "Fort-de-France",
+      "Papeetē",
+      "Suva"
     ],
     "flag": "https://flagcdn.com/w320/gu.png"
   },
@@ -1070,10 +1070,10 @@
     "question": "What is the capital of Poland?",
     "answer": "Warsaw",
     "options": [
+      "Berlin",
       "Warsaw",
-      "Wellington",
-      "Podgorica",
-      "Bratislava"
+      "Dakar",
+      "Kampala"
     ],
     "flag": "https://flagcdn.com/w320/pl.png"
   },
@@ -1081,10 +1081,10 @@
     "question": "What is the capital of United States?",
     "answer": "Washington, D.C.",
     "options": [
-      "Port Vila",
-      "Longyearbyen",
-      "Washington, D.C.",
-      "Sarajevo"
+      "Port Moresby",
+      "Astana",
+      "Yaren",
+      "Washington, D.C."
     ],
     "flag": "https://flagcdn.com/w320/us.png"
   },
@@ -1092,10 +1092,10 @@
     "question": "What is the capital of Zambia?",
     "answer": "Lusaka",
     "options": [
+      "Kampala",
       "Lusaka",
-      "Ankara",
-      "Belgrade",
-      "Canberra"
+      "Diego Garcia",
+      "Chișinău"
     ],
     "flag": "https://flagcdn.com/w320/zm.png"
   },
@@ -1103,10 +1103,10 @@
     "question": "What is the capital of Kiribati?",
     "answer": "South Tarawa",
     "options": [
-      "Malé",
       "South Tarawa",
-      "Adamstown",
-      "Oranjestad"
+      "Vaduz",
+      "Saint-Pierre",
+      "Kingston"
     ],
     "flag": "https://flagcdn.com/w320/ki.png"
   },
@@ -1115,9 +1115,9 @@
     "answer": "Lima",
     "options": [
       "Lima",
-      "Dhaka",
-      "St. George's",
-      "Abuja"
+      "Sofia",
+      "Bridgetown",
+      "Adamstown"
     ],
     "flag": "https://flagcdn.com/w320/pe.png"
   },
@@ -1125,10 +1125,10 @@
     "question": "What is the capital of Uruguay?",
     "answer": "Montevideo",
     "options": [
-      "Antananarivo",
-      "Mamoudzou",
-      "Berlin",
-      "Montevideo"
+      "Riyadh",
+      "Montevideo",
+      "Sarajevo",
+      "Cayenne"
     ],
     "flag": "https://flagcdn.com/w320/uy.png"
   },
@@ -1136,10 +1136,10 @@
     "question": "What is the capital of Anguilla?",
     "answer": "The Valley",
     "options": [
-      "The Valley",
-      "Reykjavik",
-      "Mbabane",
-      "Berlin"
+      "Dushanbe",
+      "Malé",
+      "Sofia",
+      "The Valley"
     ],
     "flag": "https://flagcdn.com/w320/ai.png"
   },
@@ -1147,10 +1147,10 @@
     "question": "What is the capital of Iran?",
     "answer": "Tehran",
     "options": [
-      "Gustavia",
-      "Cairo",
-      "Malabo",
-      "Tehran"
+      "Moscow",
+      "Tehran",
+      "Dakar",
+      "Malabo"
     ],
     "flag": "https://flagcdn.com/w320/ir.png"
   },
@@ -1158,10 +1158,10 @@
     "question": "What is the capital of El Salvador?",
     "answer": "San Salvador",
     "options": [
-      "Zagreb",
-      "Nicosia",
-      "San Salvador",
-      "Riyadh"
+      "Mamoudzou",
+      "Sarajevo",
+      "Ankara",
+      "San Salvador"
     ],
     "flag": "https://flagcdn.com/w320/sv.png"
   },
@@ -1169,10 +1169,10 @@
     "question": "What is the capital of Hungary?",
     "answer": "Budapest",
     "options": [
-      "Maputo",
-      "Majuro",
-      "Kralendijk",
-      "Budapest"
+      "Budapest",
+      "Sarajevo",
+      "Dublin",
+      "Suva"
     ],
     "flag": "https://flagcdn.com/w320/hu.png"
   },
@@ -1180,10 +1180,10 @@
     "question": "What is the capital of Samoa?",
     "answer": "Apia",
     "options": [
+      "Tbilisi",
       "Apia",
-      "Gitega",
-      "Sofia",
-      "Mbabane"
+      "Kampala",
+      "Asmara"
     ],
     "flag": "https://flagcdn.com/w320/ws.png"
   },
@@ -1191,10 +1191,10 @@
     "question": "What is the capital of Ecuador?",
     "answer": "Quito",
     "options": [
-      "Quito",
-      "Oranjestad",
-      "City of Victoria",
-      "Riga"
+      "Brasília",
+      "Saipan",
+      "Gitega",
+      "Quito"
     ],
     "flag": "https://flagcdn.com/w320/ec.png"
   },
@@ -1202,10 +1202,10 @@
     "question": "What is the capital of France?",
     "answer": "Paris",
     "options": [
-      "London",
-      "Maputo",
-      "Montevideo",
-      "Paris"
+      "Vilnius",
+      "Paris",
+      "Madrid",
+      "Monaco"
     ],
     "flag": "https://flagcdn.com/w320/fr.png"
   },
@@ -1213,10 +1213,10 @@
     "question": "What is the capital of Nigeria?",
     "answer": "Abuja",
     "options": [
-      "Willemstad",
-      "Phnom Penh",
-      "Pretoria",
-      "Abuja"
+      "Saipan",
+      "Abuja",
+      "Tegucigalpa",
+      "Basse-Terre"
     ],
     "flag": "https://flagcdn.com/w320/ng.png"
   },
@@ -1224,10 +1224,10 @@
     "question": "What is the capital of India?",
     "answer": "New Delhi",
     "options": [
+      "Washington DC",
+      "Luxembourg",
       "New Delhi",
-      "Gustavia",
-      "Bern",
-      "Canberra"
+      "Belmopan"
     ],
     "flag": "https://flagcdn.com/w320/in.png"
   },
@@ -1235,10 +1235,10 @@
     "question": "What is the capital of Saint Martin?",
     "answer": "Marigot",
     "options": [
+      "Monrovia",
       "Marigot",
-      "Montevideo",
-      "Taipei",
-      "Paris"
+      "Podgorica",
+      "Naypyidaw"
     ],
     "flag": "https://flagcdn.com/w320/mf.png"
   },
@@ -1246,10 +1246,10 @@
     "question": "What is the capital of Burkina Faso?",
     "answer": "Ouagadougou",
     "options": [
-      "Rabat",
       "Ouagadougou",
-      "City of San Marino",
-      "Podgorica"
+      "Kuwait City",
+      "Muscat",
+      "Baku"
     ],
     "flag": "https://flagcdn.com/w320/bf.png"
   },
@@ -1258,9 +1258,9 @@
     "answer": "Baghdad",
     "options": [
       "Baghdad",
-      "Khartoum",
-      "Santiago",
-      "Suva"
+      "Sarajevo",
+      "Bangui",
+      "Gaborone"
     ],
     "flag": "https://flagcdn.com/w320/iq.png"
   },
@@ -1268,10 +1268,10 @@
     "question": "What is the capital of Kuwait?",
     "answer": "Kuwait City",
     "options": [
-      "Belgrade",
-      "Managua",
-      "Ankara",
-      "Kuwait City"
+      "Kuwait City",
+      "Brazzaville",
+      "Vientiane",
+      "Dodoma"
     ],
     "flag": "https://flagcdn.com/w320/kw.png"
   },
@@ -1279,10 +1279,10 @@
     "question": "What is the capital of Czechia?",
     "answer": "Prague",
     "options": [
-      "Port-au-Prince",
       "Prague",
-      "Phnom Penh",
-      "Beijing"
+      "Tallinn",
+      "Vilnius",
+      "Kuala Lumpur"
     ],
     "flag": "https://flagcdn.com/w320/cz.png"
   },
@@ -1290,10 +1290,10 @@
     "question": "What is the capital of Montserrat?",
     "answer": "Plymouth",
     "options": [
+      "Bogotá",
       "Plymouth",
-      "Saipan",
-      "Doha",
-      "Bissau"
+      "Havana",
+      "Avarua"
     ],
     "flag": "https://flagcdn.com/w320/ms.png"
   },
@@ -1301,10 +1301,10 @@
     "question": "What is the capital of Morocco?",
     "answer": "Rabat",
     "options": [
-      "Nicosia",
-      "Maseru",
+      "New Delhi",
+      "Asunción",
       "Rabat",
-      "Manila"
+      "Asmara"
     ],
     "flag": "https://flagcdn.com/w320/ma.png"
   },
@@ -1312,10 +1312,10 @@
     "question": "What is the capital of New Caledonia?",
     "answer": "Nouméa",
     "options": [
-      "Manila",
-      "Bogotá",
-      "Lima",
-      "Nouméa"
+      "Saint-Pierre",
+      "Nouméa",
+      "London",
+      "Hanoi"
     ],
     "flag": "https://flagcdn.com/w320/nc.png"
   },
@@ -1323,10 +1323,10 @@
     "question": "What is the capital of Gambia?",
     "answer": "Banjul",
     "options": [
+      "Amsterdam",
       "Banjul",
-      "Nouméa",
-      "Majuro",
-      "Reykjavik"
+      "Mbabane",
+      "Budapest"
     ],
     "flag": "https://flagcdn.com/w320/gm.png"
   },
@@ -1334,10 +1334,10 @@
     "question": "What is the capital of Netherlands?",
     "answer": "Amsterdam",
     "options": [
-      "Amsterdam",
-      "Belmopan",
-      "Victoria",
-      "Saipan"
+      "Tórshavn",
+      "Tallinn",
+      "Bissau",
+      "Amsterdam"
     ],
     "flag": "https://flagcdn.com/w320/nl.png"
   },
@@ -1345,9 +1345,9 @@
     "question": "What is the capital of Saint Pierre and Miquelon?",
     "answer": "Saint-Pierre",
     "options": [
-      "Moroni",
-      "Nicosia",
-      "Juba",
+      "Rabat",
+      "Majuro",
+      "Ngerulmud",
       "Saint-Pierre"
     ],
     "flag": "https://flagcdn.com/w320/pm.png"
@@ -1356,21 +1356,21 @@
     "question": "What is the capital of Saint Barthélemy?",
     "answer": "Gustavia",
     "options": [
-      "Kampala",
-      "Riga",
-      "Mexico City",
-      "Gustavia"
+      "Gustavia",
+      "Minsk",
+      "Ashgabat",
+      "Washington, D.C."
     ],
     "flag": "https://flagcdn.com/w320/bl.png"
   },
   {
     "question": "What is the capital of Hong Kong?",
-    "answer": "City of Victoria",
+    "answer": "Hong Kong",
     "options": [
-      "Warsaw",
-      "Pago Pago",
-      "Porto-Novo",
-      "City of Victoria"
+      "Moroni",
+      "Port Moresby",
+      "Hong Kong",
+      "Vilnius"
     ],
     "flag": "https://flagcdn.com/w320/hk.png"
   },
@@ -1378,10 +1378,10 @@
     "question": "What is the capital of China?",
     "answer": "Beijing",
     "options": [
-      "Cairo",
-      "Tripoli",
-      "Stockholm",
-      "Beijing"
+      "Beijing",
+      "Riyadh",
+      "Vatican City",
+      "Andorra la Vella"
     ],
     "flag": "https://flagcdn.com/w320/cn.png"
   },
@@ -1389,10 +1389,10 @@
     "question": "What is the capital of Ukraine?",
     "answer": "Kyiv",
     "options": [
-      "Port Moresby",
-      "Ljubljana",
-      "Lilongwe",
-      "Kyiv"
+      "Luanda",
+      "Reykjavik",
+      "Kyiv",
+      "Singapore"
     ],
     "flag": "https://flagcdn.com/w320/ua.png"
   },
@@ -1400,10 +1400,10 @@
     "question": "What is the capital of Botswana?",
     "answer": "Gaborone",
     "options": [
-      "Tunis",
-      "Maputo",
       "Gaborone",
-      "Cairo"
+      "Pretoria",
+      "Andorra la Vella",
+      "Saipan"
     ],
     "flag": "https://flagcdn.com/w320/bw.png"
   },
@@ -1411,10 +1411,10 @@
     "question": "What is the capital of Curaçao?",
     "answer": "Willemstad",
     "options": [
-      "Mata-Utu",
-      "Malabo",
-      "Podgorica",
-      "Willemstad"
+      "Willemstad",
+      "Adamstown",
+      "Praia",
+      "Paris"
     ],
     "flag": "https://flagcdn.com/w320/cw.png"
   },
@@ -1422,10 +1422,10 @@
     "question": "What is the capital of Serbia?",
     "answer": "Belgrade",
     "options": [
-      "Kingston",
-      "Juba",
       "Belgrade",
-      "Bogotá"
+      "Majuro",
+      "Port-aux-Français",
+      "Managua"
     ],
     "flag": "https://flagcdn.com/w320/rs.png"
   },
@@ -1433,10 +1433,10 @@
     "question": "What is the capital of Sweden?",
     "answer": "Stockholm",
     "options": [
-      "Santo Domingo",
-      "Riyadh",
+      "Gustavia",
+      "Guatemala City",
       "Stockholm",
-      "Muscat"
+      "Addis Ababa"
     ],
     "flag": "https://flagcdn.com/w320/se.png"
   },
@@ -1444,9 +1444,9 @@
     "question": "What is the capital of Sierra Leone?",
     "answer": "Freetown",
     "options": [
-      "Manama",
-      "Mbabane",
-      "San Juan",
+      "Papeetē",
+      "Ottawa",
+      "Vilnius",
       "Freetown"
     ],
     "flag": "https://flagcdn.com/w320/sl.png"
@@ -1456,9 +1456,9 @@
     "answer": "Madrid",
     "options": [
       "Madrid",
-      "Port Moresby",
-      "King Edward Point",
-      "City of San Marino"
+      "Niamey",
+      "Wellington",
+      "Kampala"
     ],
     "flag": "https://flagcdn.com/w320/es.png"
   },
@@ -1466,10 +1466,10 @@
     "question": "What is the capital of Panama?",
     "answer": "Panama City",
     "options": [
-      "Addis Ababa",
+      "Canberra",
       "Panama City",
-      "Hanoi",
-      "Managua"
+      "Gustavia",
+      "Tashkent"
     ],
     "flag": "https://flagcdn.com/w320/pa.png"
   },
@@ -1477,10 +1477,10 @@
     "question": "What is the capital of Singapore?",
     "answer": "Singapore",
     "options": [
-      "Bishkek",
-      "Dakar",
-      "Pristina",
-      "Singapore"
+      "Singapore",
+      "Thimphu",
+      "Canberra",
+      "Vienna"
     ],
     "flag": "https://flagcdn.com/w320/sg.png"
   },
@@ -1488,9 +1488,9 @@
     "question": "What is the capital of Laos?",
     "answer": "Vientiane",
     "options": [
-      "Libreville",
-      "Basse-Terre",
-      "Kigali",
+      "Marigot",
+      "Managua",
+      "Bogotá",
       "Vientiane"
     ],
     "flag": "https://flagcdn.com/w320/la.png"
@@ -1499,10 +1499,10 @@
     "question": "What is the capital of Malawi?",
     "answer": "Lilongwe",
     "options": [
-      "Paramaribo",
-      "Kampala",
+      "El Aaiún",
+      "Gaborone",
       "Lilongwe",
-      "Suva"
+      "Doha"
     ],
     "flag": "https://flagcdn.com/w320/mw.png"
   },
@@ -1510,10 +1510,10 @@
     "question": "What is the capital of Burundi?",
     "answer": "Gitega",
     "options": [
-      "Dakar",
+      "Dushanbe",
       "Gitega",
-      "London",
-      "Mogadishu"
+      "Funafuti",
+      "Bamako"
     ],
     "flag": "https://flagcdn.com/w320/bi.png"
   },
@@ -1521,9 +1521,9 @@
     "question": "What is the capital of Belarus?",
     "answer": "Minsk",
     "options": [
-      "San Salvador",
-      "Oranjestad",
-      "Monaco",
+      "Roseau",
+      "N'Djamena",
+      "Dushanbe",
       "Minsk"
     ],
     "flag": "https://flagcdn.com/w320/by.png"
@@ -1532,10 +1532,10 @@
     "question": "What is the capital of Cayman Islands?",
     "answer": "George Town",
     "options": [
-      "Alofi",
       "George Town",
-      "Ngerulmud",
-      "Warsaw"
+      "Tbilisi",
+      "Roseau",
+      "Honiara"
     ],
     "flag": "https://flagcdn.com/w320/ky.png"
   },
@@ -1543,10 +1543,10 @@
     "question": "What is the capital of Malaysia?",
     "answer": "Kuala Lumpur",
     "options": [
+      "Asmara",
       "Kuala Lumpur",
-      "Belmopan",
-      "Damascus",
-      "Tegucigalpa"
+      "Gustavia",
+      "Manama"
     ],
     "flag": "https://flagcdn.com/w320/my.png"
   },
@@ -1554,10 +1554,10 @@
     "question": "What is the capital of Pakistan?",
     "answer": "Islamabad",
     "options": [
-      "Mamoudzou",
-      "Yaoundé",
       "Islamabad",
-      "Charlotte Amalie"
+      "Kabul",
+      "Juba",
+      "Dhaka"
     ],
     "flag": "https://flagcdn.com/w320/pk.png"
   },
@@ -1565,10 +1565,10 @@
     "question": "What is the capital of Argentina?",
     "answer": "Buenos Aires",
     "options": [
-      "Ashgabat",
-      "Asmara",
+      "Wellington",
       "Buenos Aires",
-      "Yaoundé"
+      "Zagreb",
+      "Rabat"
     ],
     "flag": "https://flagcdn.com/w320/ar.png"
   },
@@ -1576,10 +1576,10 @@
     "question": "What is the capital of Angola?",
     "answer": "Luanda",
     "options": [
+      "Ottawa",
       "Luanda",
-      "Saipan",
-      "Reykjavik",
-      "London"
+      "Tehran",
+      "Fort-de-France"
     ],
     "flag": "https://flagcdn.com/w320/ao.png"
   },
@@ -1587,10 +1587,10 @@
     "question": "What is the capital of Malta?",
     "answer": "Valletta",
     "options": [
-      "Valletta",
       "Caracas",
-      "Suva",
-      "Papeetē"
+      "Vatican City",
+      "Valletta",
+      "Astana"
     ],
     "flag": "https://flagcdn.com/w320/mt.png"
   },
@@ -1598,10 +1598,10 @@
     "question": "What is the capital of Aruba?",
     "answer": "Oranjestad",
     "options": [
+      "Fakaofo",
       "Oranjestad",
-      "Managua",
-      "King Edward Point",
-      "Baghdad"
+      "Sucre",
+      "El Aaiún"
     ],
     "flag": "https://flagcdn.com/w320/aw.png"
   },
@@ -1609,10 +1609,10 @@
     "question": "What is the capital of Paraguay?",
     "answer": "Asunción",
     "options": [
-      "Asunción",
-      "Sana'a",
-      "Oslo",
-      "Basse-Terre"
+      "Gaborone",
+      "Manila",
+      "Beijing",
+      "Asunción"
     ],
     "flag": "https://flagcdn.com/w320/py.png"
   },
@@ -1620,10 +1620,10 @@
     "question": "What is the capital of Guinea-Bissau?",
     "answer": "Bissau",
     "options": [
-      "Podgorica",
       "Bissau",
-      "Papeetē",
-      "Canberra"
+      "Amman",
+      "Dushanbe",
+      "Kingstown"
     ],
     "flag": "https://flagcdn.com/w320/gw.png"
   },
@@ -1631,10 +1631,10 @@
     "question": "What is the capital of Saudi Arabia?",
     "answer": "Riyadh",
     "options": [
-      "Muscat",
-      "Pago Pago",
-      "Caracas",
-      "Riyadh"
+      "Riyadh",
+      "Flying Fish Cove",
+      "Tunis",
+      "Kralendijk"
     ],
     "flag": "https://flagcdn.com/w320/sa.png"
   },
@@ -1642,10 +1642,10 @@
     "question": "What is the capital of Gibraltar?",
     "answer": "Gibraltar",
     "options": [
-      "Athens",
+      "Abuja",
       "Gibraltar",
-      "Gitega",
-      "Asunción"
+      "Asmara",
+      "Port Moresby"
     ],
     "flag": "https://flagcdn.com/w320/gi.png"
   },
@@ -1653,10 +1653,10 @@
     "question": "What is the capital of Nicaragua?",
     "answer": "Managua",
     "options": [
-      "Managua",
-      "Amman",
-      "Stockholm",
-      "Seoul"
+      "Pyongyang",
+      "Astana",
+      "Majuro",
+      "Managua"
     ],
     "flag": "https://flagcdn.com/w320/ni.png"
   },
@@ -1664,10 +1664,10 @@
     "question": "What is the capital of Ireland?",
     "answer": "Dublin",
     "options": [
-      "Dublin",
-      "Port-aux-Français",
-      "Diego Garcia",
-      "Asmara"
+      "Seoul",
+      "Saint-Pierre",
+      "Nouméa",
+      "Dublin"
     ],
     "flag": "https://flagcdn.com/w320/ie.png"
   },
@@ -1675,10 +1675,10 @@
     "question": "What is the capital of Mali?",
     "answer": "Bamako",
     "options": [
-      "Apia",
-      "Andorra la Vella",
-      "Panama City",
-      "Bamako"
+      "Sri Jayawardenepura Kotte",
+      "Bamako",
+      "Nouméa",
+      "Kuala Lumpur"
     ],
     "flag": "https://flagcdn.com/w320/ml.png"
   },
@@ -1687,9 +1687,9 @@
     "answer": "San José",
     "options": [
       "San José",
-      "Sucre",
-      "Valletta",
-      "Algiers"
+      "Adamstown",
+      "San Juan",
+      "Bangkok"
     ],
     "flag": "https://flagcdn.com/w320/cr.png"
   },
@@ -1697,10 +1697,10 @@
     "question": "What is the capital of British Indian Ocean Territory?",
     "answer": "Diego Garcia",
     "options": [
+      "Basse-Terre",
+      "Ankara",
       "Diego Garcia",
-      "Malé",
-      "Palikir",
-      "Ulan Bator"
+      "Asmara"
     ],
     "flag": "https://flagcdn.com/w320/io.png"
   },
@@ -1708,10 +1708,10 @@
     "question": "What is the capital of Mongolia?",
     "answer": "Ulan Bator",
     "options": [
-      "Bamako",
-      "Ulan Bator",
-      "Ouagadougou",
-      "Suva"
+      "Longyearbyen",
+      "Douglas",
+      "Chișinău",
+      "Ulan Bator"
     ],
     "flag": "https://flagcdn.com/w320/mn.png"
   },
@@ -1719,10 +1719,10 @@
     "question": "What is the capital of French Guiana?",
     "answer": "Cayenne",
     "options": [
-      "Beijing",
-      "Philipsburg",
-      "Bamako",
-      "Cayenne"
+      "Cayenne",
+      "Asmara",
+      "Saint-Pierre",
+      "Gitega"
     ],
     "flag": "https://flagcdn.com/w320/gf.png"
   },
@@ -1730,10 +1730,10 @@
     "question": "What is the capital of Canada?",
     "answer": "Ottawa",
     "options": [
-      "Pristina",
-      "Oranjestad",
-      "Ottawa",
-      "Phnom Penh"
+      "Vientiane",
+      "Plymouth",
+      "Ljubljana",
+      "Ottawa"
     ],
     "flag": "https://flagcdn.com/w320/ca.png"
   },
@@ -1741,10 +1741,10 @@
     "question": "What is the capital of Cook Islands?",
     "answer": "Avarua",
     "options": [
-      "Tegucigalpa",
-      "Jamestown",
-      "Hanoi",
-      "Avarua"
+      "Seoul",
+      "Bissau",
+      "Avarua",
+      "Vaduz"
     ],
     "flag": "https://flagcdn.com/w320/ck.png"
   },
@@ -1752,10 +1752,10 @@
     "question": "What is the capital of Estonia?",
     "answer": "Tallinn",
     "options": [
+      "Beirut",
+      "Saint Helier",
       "Tallinn",
-      "Bamako",
-      "Bratislava",
-      "Dushanbe"
+      "Tbilisi"
     ],
     "flag": "https://flagcdn.com/w320/ee.png"
   },
@@ -1763,10 +1763,10 @@
     "question": "What is the capital of Trinidad and Tobago?",
     "answer": "Port of Spain",
     "options": [
-      "Suva",
       "Port of Spain",
-      "Bern",
-      "Damascus"
+      "Willemstad",
+      "Castries",
+      "Conakry"
     ],
     "flag": "https://flagcdn.com/w320/tt.png"
   },
@@ -1775,9 +1775,9 @@
     "answer": "West Island",
     "options": [
       "West Island",
-      "Philipsburg",
-      "Brasília",
-      "Tashkent"
+      "Jerusalem",
+      "Bamako",
+      "Bratislava"
     ],
     "flag": "https://flagcdn.com/w320/cc.png"
   },
@@ -1785,9 +1785,9 @@
     "question": "What is the capital of Comoros?",
     "answer": "Moroni",
     "options": [
-      "Yaren",
-      "Skopje",
-      "George Town",
+      "Dushanbe",
+      "Kralendijk",
+      "Bratislava",
       "Moroni"
     ],
     "flag": "https://flagcdn.com/w320/km.png"
@@ -1796,10 +1796,10 @@
     "question": "What is the capital of Christmas Island?",
     "answer": "Flying Fish Cove",
     "options": [
+      "Montevideo",
+      "Cayenne",
       "Flying Fish Cove",
-      "Basse-Terre",
-      "Reykjavik",
-      "Tunis"
+      "Sofia"
     ],
     "flag": "https://flagcdn.com/w320/cx.png"
   },
@@ -1807,10 +1807,10 @@
     "question": "What is the capital of Timor-Leste?",
     "answer": "Dili",
     "options": [
-      "Quito",
-      "Canberra",
-      "Kinshasa",
-      "Dili"
+      "Oranjestad",
+      "Dili",
+      "Apia",
+      "Abu Dhabi"
     ],
     "flag": "https://flagcdn.com/w320/tl.png"
   },
@@ -1818,10 +1818,10 @@
     "question": "What is the capital of Denmark?",
     "answer": "Copenhagen",
     "options": [
-      "Oslo",
-      "Canberra",
-      "Yaren",
-      "Copenhagen"
+      "Niamey",
+      "Copenhagen",
+      "Kingston",
+      "Amsterdam"
     ],
     "flag": "https://flagcdn.com/w320/dk.png"
   },
@@ -1829,10 +1829,10 @@
     "question": "What is the capital of North Macedonia?",
     "answer": "Skopje",
     "options": [
-      "Cockburn Town",
-      "Skopje",
-      "Suva",
-      "Road Town"
+      "Apia",
+      "King Edward Point",
+      "Fakaofo",
+      "Skopje"
     ],
     "flag": "https://flagcdn.com/w320/mk.png"
   },
@@ -1840,10 +1840,10 @@
     "question": "What is the capital of Bangladesh?",
     "answer": "Dhaka",
     "options": [
-      "Willemstad",
-      "Mamoudzou",
-      "St. Peter Port",
-      "Dhaka"
+      "Dhaka",
+      "Monaco",
+      "Marigot",
+      "Ouagadougou"
     ],
     "flag": "https://flagcdn.com/w320/bd.png"
   },
@@ -1851,10 +1851,10 @@
     "question": "What is the capital of Mauritius?",
     "answer": "Port Louis",
     "options": [
-      "Beijing",
-      "Nouakchott",
-      "Pyongyang",
-      "Port Louis"
+      "Port Louis",
+      "Georgetown",
+      "St. Peter Port",
+      "Jamestown"
     ],
     "flag": "https://flagcdn.com/w320/mu.png"
   },
@@ -1862,10 +1862,10 @@
     "question": "What is the capital of Cyprus?",
     "answer": "Nicosia",
     "options": [
-      "Maputo",
-      "Kampala",
-      "Yaren",
-      "Nicosia"
+      "Porto-Novo",
+      "Nicosia",
+      "Castries",
+      "Apia"
     ],
     "flag": "https://flagcdn.com/w320/cy.png"
   },
@@ -1873,10 +1873,10 @@
     "question": "What is the capital of Guernsey?",
     "answer": "St. Peter Port",
     "options": [
+      "Nuuk",
       "St. Peter Port",
-      "Harare",
-      "Fort-de-France",
-      "Basseterre"
+      "São Tomé",
+      "Warsaw"
     ],
     "flag": "https://flagcdn.com/w320/gg.png"
   },
@@ -1884,10 +1884,10 @@
     "question": "What is the capital of Brunei?",
     "answer": "Bandar Seri Begawan",
     "options": [
+      "London",
       "Bandar Seri Begawan",
-      "Yerevan",
-      "Suva",
-      "Andorra la Vella"
+      "Tbilisi",
+      "Saint-Pierre"
     ],
     "flag": "https://flagcdn.com/w320/bn.png"
   },
@@ -1895,10 +1895,10 @@
     "question": "What is the capital of Japan?",
     "answer": "Tokyo",
     "options": [
+      "Algiers",
       "Tokyo",
-      "Mexico City",
-      "Manila",
-      "Oranjestad"
+      "Niamey",
+      "Douglas"
     ],
     "flag": "https://flagcdn.com/w320/jp.png"
   },
@@ -1906,10 +1906,10 @@
     "question": "What is the capital of Azerbaijan?",
     "answer": "Baku",
     "options": [
-      "Lima",
-      "Alofi",
       "Baku",
-      "Ashgabat"
+      "N'Djamena",
+      "Naypyidaw",
+      "Mata-Utu"
     ],
     "flag": "https://flagcdn.com/w320/az.png"
   },
@@ -1917,9 +1917,9 @@
     "question": "What is the capital of Bahamas?",
     "answer": "Nassau",
     "options": [
-      "South Tarawa",
-      "Lusaka",
-      "Malabo",
+      "Marigot",
+      "Brussels",
+      "Bandar Seri Begawan",
       "Nassau"
     ],
     "flag": "https://flagcdn.com/w320/bs.png"
@@ -1928,10 +1928,10 @@
     "question": "What is the capital of Latvia?",
     "answer": "Riga",
     "options": [
-      "Manama",
-      "Bogotá",
-      "Maseru",
-      "Riga"
+      "Riga",
+      "Mbabane",
+      "Monaco",
+      "Moroni"
     ],
     "flag": "https://flagcdn.com/w320/lv.png"
   },
@@ -1939,10 +1939,10 @@
     "question": "What is the capital of Mayotte?",
     "answer": "Mamoudzou",
     "options": [
+      "Bamako",
       "Mamoudzou",
-      "Port Moresby",
-      "Moroni",
-      "Belmopan"
+      "Asmara",
+      "Reykjavik"
     ],
     "flag": "https://flagcdn.com/w320/yt.png"
   },
@@ -1950,10 +1950,10 @@
     "question": "What is the capital of Afghanistan?",
     "answer": "Kabul",
     "options": [
-      "Ashgabat",
-      "Beirut",
-      "Lima",
-      "Kabul"
+      "Nassau",
+      "Kabul",
+      "Podgorica",
+      "Saint-Denis"
     ],
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_the_Taliban.svg/320px-Flag_of_the_Taliban.svg.png"
   },
@@ -1961,10 +1961,10 @@
     "question": "What is the capital of Kyrgyzstan?",
     "answer": "Bishkek",
     "options": [
-      "Brazzaville",
-      "Bishkek",
-      "Buenos Aires",
-      "Dushanbe"
+      "Douglas",
+      "Tbilisi",
+      "Alofi",
+      "Bishkek"
     ],
     "flag": "https://flagcdn.com/w320/kg.png"
   },
@@ -1973,9 +1973,9 @@
     "answer": "Kingston",
     "options": [
       "Kingston",
-      "Roseau",
-      "Belgrade",
-      "Papeetē"
+      "Mbabane",
+      "Beijing",
+      "Hagåtña"
     ],
     "flag": "https://flagcdn.com/w320/nf.png"
   },
@@ -1983,10 +1983,10 @@
     "question": "What is the capital of Vanuatu?",
     "answer": "Port Vila",
     "options": [
-      "Tashkent",
-      "Moscow",
-      "Port Vila",
-      "Lilongwe"
+      "Belmopan",
+      "Ljubljana",
+      "Mata-Utu",
+      "Port Vila"
     ],
     "flag": "https://flagcdn.com/w320/vu.png"
   },
@@ -1994,10 +1994,10 @@
     "question": "What is the capital of United Arab Emirates?",
     "answer": "Abu Dhabi",
     "options": [
-      "Honiara",
       "Abu Dhabi",
-      "Mbabane",
-      "Prague"
+      "Minsk",
+      "Islamabad",
+      "Nicosia"
     ],
     "flag": "https://flagcdn.com/w320/ae.png"
   },
@@ -2005,10 +2005,10 @@
     "question": "What is the capital of Lesotho?",
     "answer": "Maseru",
     "options": [
-      "Beijing",
-      "Mbabane",
+      "West Island",
+      "Nuuk",
       "Maseru",
-      "Warsaw"
+      "St. George's"
     ],
     "flag": "https://flagcdn.com/w320/ls.png"
   },
@@ -2016,10 +2016,10 @@
     "question": "What is the capital of Myanmar?",
     "answer": "Naypyidaw",
     "options": [
-      "Naypyidaw",
-      "Asmara",
-      "Kampala",
-      "George Town"
+      "Gitega",
+      "Kathmandu",
+      "Bratislava",
+      "Naypyidaw"
     ],
     "flag": "https://flagcdn.com/w320/mm.png"
   },
@@ -2028,9 +2028,9 @@
     "answer": "London",
     "options": [
       "London",
-      "Tunis",
-      "Port-aux-Français",
-      "Kampala"
+      "Nouakchott",
+      "Papeetē",
+      "Mata-Utu"
     ],
     "flag": "https://flagcdn.com/w320/gb.png"
   },
@@ -2038,10 +2038,10 @@
     "question": "What is the capital of Norway?",
     "answer": "Oslo",
     "options": [
-      "Freetown",
-      "Brussels",
       "Oslo",
-      "Basse-Terre"
+      "Belgrade",
+      "Harare",
+      "Asmara"
     ],
     "flag": "https://flagcdn.com/w320/no.png"
   },
@@ -2049,10 +2049,10 @@
     "question": "What is the capital of Réunion?",
     "answer": "Saint-Denis",
     "options": [
-      "Tbilisi",
-      "City of San Marino",
-      "Djibouti",
-      "Saint-Denis"
+      "Saint-Denis",
+      "Washington DC",
+      "El Aaiún",
+      "Lilongwe"
     ],
     "flag": "https://flagcdn.com/w320/re.png"
   },
@@ -2061,9 +2061,9 @@
     "answer": "Seoul",
     "options": [
       "Seoul",
-      "Phnom Penh",
-      "Monrovia",
-      "Lisbon"
+      "Muscat",
+      "San Salvador",
+      "The Valley"
     ],
     "flag": "https://flagcdn.com/w320/kr.png"
   },
@@ -2071,10 +2071,10 @@
     "question": "What is the capital of Turks and Caicos Islands?",
     "answer": "Cockburn Town",
     "options": [
-      "Oslo",
-      "Charlotte Amalie",
-      "Cockburn Town",
-      "Praia"
+      "São Tomé",
+      "Tbilisi",
+      "Naypyidaw",
+      "Cockburn Town"
     ],
     "flag": "https://flagcdn.com/w320/tc.png"
   },
@@ -2082,10 +2082,10 @@
     "question": "What is the capital of Djibouti?",
     "answer": "Djibouti",
     "options": [
-      "Papeetē",
       "Djibouti",
-      "Saipan",
-      "Brasília"
+      "Riyadh",
+      "Naypyidaw",
+      "Islamabad"
     ],
     "flag": "https://flagcdn.com/w320/dj.png"
   },
@@ -2093,9 +2093,9 @@
     "question": "What is the capital of Australia?",
     "answer": "Canberra",
     "options": [
-      "Georgetown",
-      "Saipan",
-      "Dhaka",
+      "Vaduz",
+      "Basse-Terre",
+      "Road Town",
       "Canberra"
     ],
     "flag": "https://flagcdn.com/w320/au.png"
@@ -2104,10 +2104,10 @@
     "question": "What is the capital of Marshall Islands?",
     "answer": "Majuro",
     "options": [
-      "Papeetē",
-      "Pago Pago",
-      "Brasília",
-      "Majuro"
+      "Bissau",
+      "Majuro",
+      "Port-au-Prince",
+      "Nicosia"
     ],
     "flag": "https://flagcdn.com/w320/mh.png"
   },
@@ -2116,9 +2116,9 @@
     "answer": "Muscat",
     "options": [
       "Muscat",
-      "Montevideo",
-      "Beirut",
-      "Kingston"
+      "Beijing",
+      "Santiago",
+      "Naypyidaw"
     ],
     "flag": "https://flagcdn.com/w320/om.png"
   },
@@ -2126,10 +2126,10 @@
     "question": "What is the capital of Nepal?",
     "answer": "Kathmandu",
     "options": [
-      "Kuwait City",
-      "West Island",
       "Kathmandu",
-      "Dakar"
+      "Bangui",
+      "Adamstown",
+      "Tórshavn"
     ],
     "flag": "https://flagcdn.com/w320/np.png"
   },
@@ -2137,10 +2137,10 @@
     "question": "What is the capital of Niue?",
     "answer": "Alofi",
     "options": [
+      "Saint-Denis",
+      "Bissau",
       "Alofi",
-      "Banjul",
-      "Suva",
-      "Hamilton"
+      "Port of Spain"
     ],
     "flag": "https://flagcdn.com/w320/nu.png"
   },
@@ -2148,10 +2148,10 @@
     "question": "What is the capital of Togo?",
     "answer": "Lomé",
     "options": [
-      "San Salvador",
-      "Asunción",
-      "Oslo",
-      "Lomé"
+      "Lomé",
+      "Antananarivo",
+      "Plymouth",
+      "Charlotte Amalie"
     ],
     "flag": "https://flagcdn.com/w320/tg.png"
   },
@@ -2159,10 +2159,10 @@
     "question": "What is the capital of Republic of the Congo?",
     "answer": "Brazzaville",
     "options": [
+      "Charlotte Amalie",
+      "São Tomé",
       "Brazzaville",
-      "New Delhi",
-      "Jakarta",
-      "Astana"
+      "Marigot"
     ],
     "flag": "https://flagcdn.com/w320/cg.png"
   },
@@ -2170,10 +2170,10 @@
     "question": "What is the capital of Madagascar?",
     "answer": "Antananarivo",
     "options": [
-      "Kingston",
-      "Antananarivo",
-      "Dakar",
-      "Wellington"
+      "Port-aux-Français",
+      "Paris",
+      "West Island",
+      "Antananarivo"
     ],
     "flag": "https://flagcdn.com/w320/mg.png"
   },
@@ -2182,9 +2182,9 @@
     "answer": "City of San Marino",
     "options": [
       "City of San Marino",
-      "Roseau",
-      "Saint-Pierre",
-      "Brasília"
+      "Maputo",
+      "Naypyidaw",
+      "Porto-Novo"
     ],
     "flag": "https://flagcdn.com/w320/sm.png"
   },
@@ -2192,10 +2192,10 @@
     "question": "What is the capital of Lithuania?",
     "answer": "Vilnius",
     "options": [
-      "Vilnius",
-      "Tórshavn",
-      "Yerevan",
-      "Phnom Penh"
+      "Philipsburg",
+      "Kampala",
+      "Managua",
+      "Vilnius"
     ],
     "flag": "https://flagcdn.com/w320/lt.png"
   },
@@ -2203,10 +2203,10 @@
     "question": "What is the capital of Bhutan?",
     "answer": "Thimphu",
     "options": [
-      "City of Victoria",
-      "Tunis",
+      "Andorra la Vella",
+      "Santo Domingo",
       "Thimphu",
-      "Fort-de-France"
+      "South Tarawa"
     ],
     "flag": "https://flagcdn.com/w320/bt.png"
   },
@@ -2214,9 +2214,9 @@
     "question": "What is the capital of Ivory Coast?",
     "answer": "Yamoussoukro",
     "options": [
-      "Khartoum",
-      "Jakarta",
-      "Canberra",
+      "Kyiv",
+      "Stockholm",
+      "Pago Pago",
       "Yamoussoukro"
     ],
     "flag": "https://flagcdn.com/w320/ci.png"
@@ -2225,10 +2225,10 @@
     "question": "What is the capital of Saint Kitts and Nevis?",
     "answer": "Basseterre",
     "options": [
-      "Yaoundé",
-      "Kampala",
       "Basseterre",
-      "São Tomé"
+      "Berlin",
+      "Djibouti",
+      "City of San Marino"
     ],
     "flag": "https://flagcdn.com/w320/kn.png"
   },
@@ -2236,10 +2236,10 @@
     "question": "What is the capital of Switzerland?",
     "answer": "Bern",
     "options": [
-      "N'Djamena",
+      "Windhoek",
       "Bern",
-      "Yaoundé",
-      "Tirana"
+      "King Edward Point",
+      "Kingston"
     ],
     "flag": "https://flagcdn.com/w320/ch.png"
   },
@@ -2247,10 +2247,10 @@
     "question": "What is the capital of Isle of Man?",
     "answer": "Douglas",
     "options": [
-      "Papeetē",
-      "Singapore",
-      "Santo Domingo",
-      "Douglas"
+      "Naypyidaw",
+      "Douglas",
+      "St. Peter Port",
+      "Reykjavik"
     ],
     "flag": "https://flagcdn.com/w320/im.png"
   },
@@ -2258,10 +2258,10 @@
     "question": "What is the capital of Monaco?",
     "answer": "Monaco",
     "options": [
-      "Palikir",
-      "Monaco",
-      "Suva",
-      "Baku"
+      "Conakry",
+      "Riyadh",
+      "Plymouth",
+      "Monaco"
     ],
     "flag": "https://flagcdn.com/w320/mc.png"
   },
@@ -2269,10 +2269,10 @@
     "question": "What is the capital of Ghana?",
     "answer": "Accra",
     "options": [
-      "Port Moresby",
-      "Washington DC",
+      "Rome",
+      "Fort-de-France",
       "Accra",
-      "Sofia"
+      "Freetown"
     ],
     "flag": "https://flagcdn.com/w320/gh.png"
   },
@@ -2280,10 +2280,10 @@
     "question": "What is the capital of Kosovo?",
     "answer": "Pristina",
     "options": [
+      "Oranjestad",
       "Pristina",
-      "Belgrade",
-      "Kuala Lumpur",
-      "Niamey"
+      "King Edward Point",
+      "Mexico City"
     ],
     "flag": "https://flagcdn.com/w320/xk.png"
   },
@@ -2291,10 +2291,10 @@
     "question": "What is the capital of Seychelles?",
     "answer": "Victoria",
     "options": [
+      "Stockholm",
       "Victoria",
-      "Windhoek",
-      "Basse-Terre",
-      "Cayenne"
+      "King Edward Point",
+      "Brazzaville"
     ],
     "flag": "https://flagcdn.com/w320/sc.png"
   },
@@ -2302,10 +2302,10 @@
     "question": "What is the capital of Grenada?",
     "answer": "St. George's",
     "options": [
-      "St. George's",
-      "Phnom Penh",
-      "Pyongyang",
-      "Ottawa"
+      "Sofia",
+      "Manila",
+      "Kampala",
+      "St. George's"
     ],
     "flag": "https://flagcdn.com/w320/gd.png"
   },
@@ -2313,10 +2313,10 @@
     "question": "What is the capital of Mauritania?",
     "answer": "Nouakchott",
     "options": [
-      "Fakaofo",
-      "Charlotte Amalie",
-      "Tripoli",
-      "Nouakchott"
+      "Bucharest",
+      "Nouakchott",
+      "Tunis",
+      "Mata-Utu"
     ],
     "flag": "https://flagcdn.com/w320/mr.png"
   },
@@ -2324,10 +2324,10 @@
     "question": "What is the capital of New Zealand?",
     "answer": "Wellington",
     "options": [
-      "Philipsburg",
-      "City of Victoria",
-      "Willemstad",
-      "Wellington"
+      "Wellington",
+      "Brazzaville",
+      "Santiago",
+      "Mbabane"
     ],
     "flag": "https://flagcdn.com/w320/nz.png"
   },
@@ -2335,10 +2335,10 @@
     "question": "What is the capital of Guinea?",
     "answer": "Conakry",
     "options": [
-      "Saint-Pierre",
-      "Nouakchott",
+      "Vienna",
       "Conakry",
-      "Belgrade"
+      "Suva",
+      "Caracas"
     ],
     "flag": "https://flagcdn.com/w320/gn.png"
   },
@@ -2346,10 +2346,10 @@
     "question": "What is the capital of Tonga?",
     "answer": "Nuku'alofa",
     "options": [
-      "Pyongyang",
+      "Addis Ababa",
+      "Kuwait City",
       "Nuku'alofa",
-      "Abuja",
-      "South Tarawa"
+      "Dushanbe"
     ],
     "flag": "https://flagcdn.com/w320/to.png"
   },
@@ -2357,10 +2357,10 @@
     "question": "What is the capital of Italy?",
     "answer": "Rome",
     "options": [
-      "Saint-Denis",
-      "Stockholm",
       "Rome",
-      "Kampala"
+      "Pago Pago",
+      "Vienna",
+      "Oslo"
     ],
     "flag": "https://flagcdn.com/w320/it.png"
   },
@@ -2368,9 +2368,9 @@
     "question": "What is the capital of Albania?",
     "answer": "Tirana",
     "options": [
-      "Bandar Seri Begawan",
-      "Khartoum",
-      "Asunción",
+      "Oslo",
+      "Islamabad",
+      "Moroni",
       "Tirana"
     ],
     "flag": "https://flagcdn.com/w320/al.png"
@@ -2379,10 +2379,10 @@
     "question": "What is the capital of Bolivia?",
     "answer": "Sucre",
     "options": [
-      "Ottawa",
-      "Sucre",
-      "Astana",
-      "Washington DC"
+      "Manila",
+      "Tokyo",
+      "Tórshavn",
+      "Sucre"
     ],
     "flag": "https://flagcdn.com/w320/bo.png"
   },
@@ -2390,10 +2390,10 @@
     "question": "What is the capital of DR Congo?",
     "answer": "Kinshasa",
     "options": [
-      "Charlotte Amalie",
-      "Vientiane",
+      "Paramaribo",
       "Kinshasa",
-      "Alofi"
+      "Malabo",
+      "Vaduz"
     ],
     "flag": "https://flagcdn.com/w320/cd.png"
   },
@@ -2401,10 +2401,10 @@
     "question": "What is the capital of Palau?",
     "answer": "Ngerulmud",
     "options": [
-      "Thimphu",
-      "Chișinău",
-      "Ngerulmud",
-      "Vienna"
+      "Quito",
+      "Algiers",
+      "Beijing",
+      "Ngerulmud"
     ],
     "flag": "https://flagcdn.com/w320/pw.png"
   },
@@ -2412,9 +2412,9 @@
     "question": "What is the capital of Libya?",
     "answer": "Tripoli",
     "options": [
-      "Charlotte Amalie",
-      "Athens",
-      "Kingston",
+      "Naypyidaw",
+      "Malé",
+      "Warsaw",
       "Tripoli"
     ],
     "flag": "https://flagcdn.com/w320/ly.png"
@@ -2423,10 +2423,10 @@
     "question": "What is the capital of Puerto Rico?",
     "answer": "San Juan",
     "options": [
-      "San Juan",
-      "El Aaiún",
-      "Yamoussoukro",
-      "Nicosia"
+      "Manila",
+      "Belmopan",
+      "Sofia",
+      "San Juan"
     ],
     "flag": "https://flagcdn.com/w320/pr.png"
   },
@@ -2434,10 +2434,10 @@
     "question": "What is the capital of Russia?",
     "answer": "Moscow",
     "options": [
-      "Vientiane",
-      "Moscow",
-      "Port Vila",
-      "Marigot"
+      "Majuro",
+      "Beijing",
+      "Berlin",
+      "Moscow"
     ],
     "flag": "https://flagcdn.com/w320/ru.png"
   },
@@ -2445,10 +2445,10 @@
     "question": "What is the capital of Chile?",
     "answer": "Santiago",
     "options": [
-      "Adamstown",
-      "Sana'a",
-      "Ljubljana",
-      "Santiago"
+      "Santiago",
+      "Mariehamn",
+      "Jerusalem",
+      "Dakar"
     ],
     "flag": "https://flagcdn.com/w320/cl.png"
   },
@@ -2456,9 +2456,9 @@
     "question": "What is the capital of Jordan?",
     "answer": "Amman",
     "options": [
-      "Fakaofo",
-      "Kampala",
-      "King Edward Point",
+      "Antananarivo",
+      "São Tomé",
+      "Port-au-Prince",
       "Amman"
     ],
     "flag": "https://flagcdn.com/w320/jo.png"
@@ -2467,10 +2467,10 @@
     "question": "What is the capital of Bermuda?",
     "answer": "Hamilton",
     "options": [
-      "Kingstown",
       "Hamilton",
-      "Mata-Utu",
-      "Tashkent"
+      "Budapest",
+      "Brasília",
+      "Honiara"
     ],
     "flag": "https://flagcdn.com/w320/bm.png"
   },
@@ -2478,10 +2478,10 @@
     "question": "What is the capital of South Africa?",
     "answer": "Pretoria",
     "options": [
-      "Paramaribo",
-      "Basse-Terre",
-      "Hamilton",
-      "Pretoria"
+      "Podgorica",
+      "Chișinău",
+      "Pretoria",
+      "Helsinki"
     ],
     "flag": "https://flagcdn.com/w320/za.png"
   },
@@ -2489,10 +2489,10 @@
     "question": "What is the capital of Sri Lanka?",
     "answer": "Sri Jayawardenepura Kotte",
     "options": [
-      "Madrid",
-      "Sri Jayawardenepura Kotte",
-      "Mbabane",
-      "Kathmandu"
+      "Kyiv",
+      "Victoria",
+      "Moscow",
+      "Sri Jayawardenepura Kotte"
     ],
     "flag": "https://flagcdn.com/w320/lk.png"
   },
@@ -2500,10 +2500,10 @@
     "question": "What is the capital of Antigua and Barbuda?",
     "answer": "Saint John's",
     "options": [
+      "Dakar",
+      "Saint John's",
       "Nouakchott",
-      "Fort-de-France",
-      "Beijing",
-      "Saint John's"
+      "Banjul"
     ],
     "flag": "https://flagcdn.com/w320/ag.png"
   },
@@ -2511,10 +2511,10 @@
     "question": "What is the capital of Ethiopia?",
     "answer": "Addis Ababa",
     "options": [
-      "Addis Ababa",
-      "Amsterdam",
-      "Harare",
-      "Kyiv"
+      "Pago Pago",
+      "Tehran",
+      "Roseau",
+      "Addis Ababa"
     ],
     "flag": "https://flagcdn.com/w320/et.png"
   },
@@ -2522,10 +2522,10 @@
     "question": "What is the capital of Iceland?",
     "answer": "Reykjavik",
     "options": [
-      "Podgorica",
       "Reykjavik",
-      "Luxembourg",
-      "Yaoundé"
+      "Harare",
+      "Kampala",
+      "Asmara"
     ],
     "flag": "https://flagcdn.com/w320/is.png"
   },
@@ -2534,9 +2534,9 @@
     "answer": "Guatemala City",
     "options": [
       "Guatemala City",
-      "Tunis",
-      "Madrid",
-      "Ouagadougou"
+      "Kuwait City",
+      "Port Moresby",
+      "Vatican City"
     ],
     "flag": "https://flagcdn.com/w320/gt.png"
   },
@@ -2545,9 +2545,9 @@
     "answer": "Funafuti",
     "options": [
       "Funafuti",
-      "Hamilton",
-      "Washington DC",
-      "Saipan"
+      "Pyongyang",
+      "Saint-Pierre",
+      "Bucharest"
     ],
     "flag": "https://flagcdn.com/w320/tv.png"
   },
@@ -2555,9 +2555,9 @@
     "question": "What is the capital of São Tomé and Príncipe?",
     "answer": "São Tomé",
     "options": [
-      "Ulan Bator",
-      "Paramaribo",
-      "N'Djamena",
+      "Yaoundé",
+      "Algiers",
+      "Baghdad",
       "São Tomé"
     ],
     "flag": "https://flagcdn.com/w320/st.png"
@@ -2566,10 +2566,10 @@
     "question": "What is the capital of Egypt?",
     "answer": "Cairo",
     "options": [
-      "Guatemala City",
-      "Willemstad",
-      "Yaren",
-      "Cairo"
+      "Canberra",
+      "Cairo",
+      "Algiers",
+      "Damascus"
     ],
     "flag": "https://flagcdn.com/w320/eg.png"
   },
@@ -2577,10 +2577,10 @@
     "question": "What is the capital of Bosnia and Herzegovina?",
     "answer": "Sarajevo",
     "options": [
-      "Nairobi",
-      "Bamako",
-      "San José",
-      "Sarajevo"
+      "Port Moresby",
+      "City of San Marino",
+      "Sarajevo",
+      "Road Town"
     ],
     "flag": "https://flagcdn.com/w320/ba.png"
   },
@@ -2588,10 +2588,10 @@
     "question": "What is the capital of Jersey?",
     "answer": "Saint Helier",
     "options": [
-      "Saint Helier",
-      "Asmara",
-      "Algiers",
-      "Hamilton"
+      "Helsinki",
+      "Philipsburg",
+      "Port-aux-Français",
+      "Saint Helier"
     ],
     "flag": "https://flagcdn.com/w320/je.png"
   },
@@ -2599,10 +2599,10 @@
     "question": "What is the capital of Luxembourg?",
     "answer": "Luxembourg",
     "options": [
-      "Buenos Aires",
+      "Victoria",
       "Luxembourg",
-      "Singapore",
-      "Damascus"
+      "Djibouti",
+      "Addis Ababa"
     ],
     "flag": "https://flagcdn.com/w320/lu.png"
   },
@@ -2611,9 +2611,9 @@
     "answer": "Georgetown",
     "options": [
       "Georgetown",
-      "Muscat",
-      "Port Louis",
-      "Madrid"
+      "Basse-Terre",
+      "Lima",
+      "Mbabane"
     ],
     "flag": "https://flagcdn.com/w320/gy.png"
   },
@@ -2621,10 +2621,10 @@
     "question": "What is the capital of Haiti?",
     "answer": "Port-au-Prince",
     "options": [
-      "Port-au-Prince",
-      "Diego Garcia",
-      "Libreville",
-      "Lisbon"
+      "Gustavia",
+      "Kabul",
+      "Antananarivo",
+      "Port-au-Prince"
     ],
     "flag": "https://flagcdn.com/w320/ht.png"
   },
@@ -2632,10 +2632,10 @@
     "question": "What is the capital of Qatar?",
     "answer": "Doha",
     "options": [
+      "Pyongyang",
       "Doha",
-      "Freetown",
-      "New Delhi",
-      "Panama City"
+      "Gibraltar",
+      "Jamestown"
     ],
     "flag": "https://flagcdn.com/w320/qa.png"
   },
@@ -2643,10 +2643,10 @@
     "question": "What is the capital of Svalbard and Jan Mayen?",
     "answer": "Longyearbyen",
     "options": [
-      "Bern",
-      "Willemstad",
-      "Lusaka",
-      "Longyearbyen"
+      "Nassau",
+      "Longyearbyen",
+      "Zagreb",
+      "Harare"
     ],
     "flag": "https://flagcdn.com/w320/sj.png"
   },
@@ -2654,10 +2654,10 @@
     "question": "What is the capital of Cambodia?",
     "answer": "Phnom Penh",
     "options": [
-      "Willemstad",
-      "Bern",
-      "City of Victoria",
-      "Phnom Penh"
+      "Phnom Penh",
+      "Tunis",
+      "Yaoundé",
+      "Valletta"
     ],
     "flag": "https://flagcdn.com/w320/kh.png"
   },
@@ -2665,10 +2665,10 @@
     "question": "What is the capital of Somalia?",
     "answer": "Mogadishu",
     "options": [
-      "Ouagadougou",
-      "Sana'a",
-      "City of San Marino",
-      "Mogadishu"
+      "Gustavia",
+      "Moroni",
+      "Mogadishu",
+      "Washington DC"
     ],
     "flag": "https://flagcdn.com/w320/so.png"
   },
@@ -2676,9 +2676,9 @@
     "question": "What is the capital of Kenya?",
     "answer": "Nairobi",
     "options": [
-      "Castries",
-      "St. Peter Port",
-      "Astana",
+      "Dakar",
+      "Dushanbe",
+      "Naypyidaw",
       "Nairobi"
     ],
     "flag": "https://flagcdn.com/w320/ke.png"
@@ -2687,10 +2687,10 @@
     "question": "What is the capital of Nauru?",
     "answer": "Yaren",
     "options": [
-      "Willemstad",
+      "Santo Domingo",
+      "Diego Garcia",
       "Yaren",
-      "Nassau",
-      "Conakry"
+      "Philipsburg"
     ],
     "flag": "https://flagcdn.com/w320/nr.png"
   }
