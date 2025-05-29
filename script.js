@@ -1,3 +1,4 @@
+
 let currentQuestion = 0;
 let score = 0;
 
@@ -115,5 +116,12 @@ const correct = questions[currentQuestion].answer
 
 }  
 
+function fitTxt() {
+  $('.question').fitText(1.2, {
+    minFontSize: '16px',
+    maxFontSize: '22px'
+  });
+}
 
+$(fitTxt);
 
