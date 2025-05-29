@@ -117,9 +117,9 @@ const correct = questions[currentQuestion].answer
 }  
 
 function fitTxt() {
-  $('.question').fitText(1.2, {
-    minFontSize: '16px',
-    maxFontSize: '22px'
+  $('.question').fitText(1.1, {
+    minFontSize: '14px',
+    maxFontSize: '20px'
   });
 }
 
