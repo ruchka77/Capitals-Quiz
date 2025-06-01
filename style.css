@@ -134,3 +134,10 @@ html, body {
       box-shadow: 0 4px 10px rgba(0,0,0,0.1);
     }
 
+@media screen and (max-height: 600px) {
+    .score {
+        font-size: 14px;
+        padding: 5px 10px;
+        margin: auto 15px;
+    }
+}
