@@ -110,17 +110,6 @@
     "flag": "https://flagcdn.com/w320/gl.png"
   },
   {
-    "question": "What is the capital of United States Minor Outlying Islands?",
-    "answer": "Washington DC",
-    "options": [
-      "Kampala",
-      "Panama City",
-      "Washington DC",
-      "Prague"
-    ],
-    "flag": "https://flagcdn.com/w320/um.png"
-  },
-  {
     "question": "What is the capital of Equatorial Guinea?",
     "answer": "Malabo",
     "options": [

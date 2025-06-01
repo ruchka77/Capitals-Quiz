@@ -85,7 +85,7 @@ html, body {
     font-weight: 500;
     text-align: center;
     margin-top: 10px;
-    margin-bottom: 10px;
+    margin-bottom: 50px;
     height: 30px;
     max-width: 600px;
     margin-left: auto;
@@ -129,15 +129,9 @@ html, body {
       display: inline-block;
       background-color: #FFF3E0;
       padding: 5px 15px;
-      margin: auto 30px;
+      margin: 5px 30px;
       border-radius: 10px;
       box-shadow: 0 4px 10px rgba(0,0,0,0.1);
     }
 
-@media screen and (max-height: 600px) {
-    .score {
-        font-size: 14px;
-        padding: 5px 10px;
-        margin: auto 15px;
-    }
-}
+    
