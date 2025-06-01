@@ -31,7 +31,7 @@ html, body {
     font-family: 'Poppins', sans-serif;
     font-weight: 600;
     text-align: center;
-    margin: 2.5rem auto 1.5rem;
+    margin: 3rem auto 1.5rem;
     max-width: 600px;
     color: #333;
     white-space: nowrap;
@@ -137,9 +137,10 @@ html, body {
 @media screen and (max-height: 1000px) {
     .question {
         font-size: 1rem;
+        margin: 3.5rem auto 1rem;
     }
     .result {
-        font-size: 1rem;
+        font-size: 0.9rem;
     }
     .score {
         font-size: 1rem;
