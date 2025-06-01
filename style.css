@@ -34,7 +34,7 @@ html, body {
     margin: 3rem auto 1.5rem;
     max-width: 600px;
     color: #333;
-    white-space: nowrap;
+    white-space: wrap;
 }
 
 .flag {
