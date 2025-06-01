@@ -115,13 +115,3 @@ const correct = questions[currentQuestion].answer
      quizState = "Next";
 
 }  
-
-function fitTxt() {
-  $('.question').fitText(1.1, {
-    minFontSize: '14px',
-    maxFontSize: '18px'
-  });
-}
-
-$(fitTxt);
-
